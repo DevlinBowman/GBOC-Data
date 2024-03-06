@@ -1,0 +1,289 @@
+[
+    {
+        "name": "Name",
+        "effective_date": "Effective Date",
+        "original_text": "Original Text",
+        "new_text": "New Text",
+        "set": "Set"
+    },
+    {
+        "name": "Toughen Up",
+        "effective_date": "Dec 2 2023",
+        "original_text": "Swift - 3A - Defense [2]",
+        "new_text": "Swift - 3E - Defense [2]",
+        "set": "INV"
+    },
+    {
+        "name": "Cobbled Amalgamate",
+        "effective_date": "Dec 2 2023",
+        "original_text": "Swift - Exert - Drain Attack [3] Target combatant in Cobbled Amalgamate's awareness loses 3 HP and you gains 3 HP.",
+        "new_text": "Swift - Exert - Drain Attack [3] Target combatant in Cobbled Amalgamate's awareness loses 3 HP and Cobbled Amalgamte gains 3 HP.",
+        "set": "INV"
+    },
+    {
+        "name": "Leg Sweep",
+        "effective_date": "Dec 2 2023",
+        "original_text": "",
+        "new_text": "Chi value should be 6",
+        "set": "INV"
+    },
+    {
+        "name": "Razorback Gorilla",
+        "effective_date": "Dec 2 2023",
+        "original_text": "Swift - Execute Target combatant in Razorback Gorilla's awareness has Pinned this round.",
+        "new_text": "Swift - 1 HP - Execute Target combatant in Razorback Gorilla's awareness has Pinned this round.",
+        "set": "INV"
+    },
+    {
+        "name": "Reform Position",
+        "effective_date": "Dec 2 2023",
+        "original_text": "",
+        "new_text": "HP should not be on card Card number should be 82",
+        "set": "INV"
+    },
+    {
+        "name": "Longma",
+        "effective_date": "Dec 2 2023",
+        "original_text": "Swift - Exert - Air Area Attack [5]",
+        "new_text": "Swift - Exert - Air Area Attack [4]",
+        "set": "UIA"
+    },
+    {
+        "name": "Shield Major",
+        "effective_date": "Oct 23 2022",
+        "original_text": "",
+        "new_text": "Trigger - Electric Counter Attack [3] Whenever Shield Major is dealt damage by a champion or summon in its awareness it deals 3 Electric damage to them.",
+        "set": "ORG"
+    },
+    {
+        "name": "Block",
+        "effective_date": "Aug 2 2022",
+        "original_text": "Swift - 5 Energy - Defense [2] Prevent the next 2 damage by a target in Block's awareness this round.",
+        "new_text": "Swift - 5 Energy - Defense [2] Prevent the next 2 damage to you by a target in Block's awareness this round.",
+        "set": "ORG"
+    },
+    {
+        "name": "Innovative Cover",
+        "effective_date": "Aug 2 2022",
+        "original_text": "Swift - 7 Energy - Defense [3] Prevent the next 3 damage by a target in Innovative Cover's awareness this round.",
+        "new_text": "Swift - 7 Energy - Defense [3] Prevent the next 3 damage to you by a target in Innovative Cover's awareness this round.",
+        "set": "ORG"
+    },
+    {
+        "name": "Electrical Storm",
+        "effective_date": "Jul 24 2022",
+        "original_text": "Swift - 16 Aura - Cast You deal 3 Electric damage to everything without Aerial in Electrical Storm's awareness and you deal 6 Electric damage to everything with Aerial in Electrical Storm's awareness.",
+        "new_text": "Action - 16 Aura - Cast You deal 3 Electric damage to everything without Aerial in Electrical Storm's awareness and you deal 6 Electric damage to everything with Aerial in Electrical Storm's awareness.",
+        "set": "ORG"
+    },
+    {
+        "name": "Air Pillar",
+        "effective_date": "Mar 23 2022",
+        "original_text": "Continuous - Air Brand Everything else on or adjacent to Air Pillar without Air Weakness gains Air Weakness.",
+        "new_text": "Continuous - Air Brand Everything on or adjacent to Air Pillar without Air Weakness has Air Weakness.",
+        "set": "RAZ, J2"
+    },
+    {
+        "name": "Earth Pillar",
+        "effective_date": "Mar 23 2022",
+        "original_text": "Continuous - Earth Brand Everything else on or adjacent to Earth Pillar without Earth Weakness gains Earth Weakness.",
+        "new_text": "Continuous - Earth Brand Everything on or adjacent to Earth Pillar without Earth Weakness has Earth Weakness.",
+        "set": "RAZ, J2"
+    },
+    {
+        "name": "Water Pillar",
+        "effective_date": "Mar 23 2022",
+        "original_text": "Continuous - Water Brand Everything else on or adjacent to Water Pillar without Water Weakness gains Water Weakness.",
+        "new_text": "Continuous - Water Brand Everything on or adjacent to Water Pillar without Water Weakness has Water Weakness.",
+        "set": "RAZ, J2"
+    },
+    {
+        "name": "Electric Pillar",
+        "effective_date": "Mar 23 2022",
+        "original_text": "Continuous - Electric Brand Everything else on or adjacent to Electric Pillar without Electric Weakness gains Electric Weakness.",
+        "new_text": "Continuous - Electric Brand Everything on or adjacent to Electric Pillar without Electric Weakness has Electric Weakness.",
+        "set": "RAZ, J2"
+    },
+    {
+        "name": "Fire Pillar",
+        "effective_date": "Mar 23 2022",
+        "original_text": "Continuous - Fire Brand Everything else on or adjacent to Fire Pillar without Fire Weakness gains Fire Weakness.",
+        "new_text": "Continuous - Fire Brand Everything on or adjacent to Fire Pillar without Fire Weakness has Fire Weakness.",
+        "set": "RAZ, J2"
+    },
+    {
+        "name": "Phyr Hill",
+        "effective_date": "Mar 23 2022",
+        "original_text": "Continuous - Fire Brand While a combatant is on Phyr Hill everything on or adjacent to Phyr Hill without Fire Weakness gains Fire Weakness.",
+        "new_text": "Continuous - Fire Brand While a combatant is on Phyr Hill everything on or adjacent to Phyr Hill without Fire Weakness has Fire Weakness.",
+        "set": "JAE"
+    },
+    {
+        "name": "Shadow's Grasp",
+        "effective_date": "Sep 2 2022",
+        "original_text": "Action - 8 Aura & 4 Energy - Execute Move target champion or summon in Shadow's Grasp's awareness to a spot adjacent to you.",
+        "new_text": "Swift - 8 Aura & 4 Energy - Execute Move target champion or summon in Shadow's Grasp's awareness to a spot adjacent to you.",
+        "set": "J2"
+    },
+    {
+        "name": "Pye'uwnadd",
+        "effective_date": "Sep 2 2022",
+        "original_text": "Continuous - Decay At the end of each round Pye'uwnadd loses 1HP.",
+        "new_text": "Trigger - Decay At the end of each round Pye'uwnadd loses 1HP.",
+        "set": "J2"
+    },
+    {
+        "name": "Martial Sentry",
+        "effective_date": "Sept 2 2022",
+        "original_text": "Action - Dark Resistance All Dark damage dealt to Martial Sentry is reduced by 1.",
+        "new_text": "Continuous - Dark Resistance All Dark damage dealt to Martial Sentry is reduced by 1.",
+        "set": "J2"
+    },
+    {
+        "name": "Arcane Blast",
+        "effective_date": "Sep 2 2022",
+        "original_text": "",
+        "new_text": "Card Symbol should be Spell",
+        "set": "J2"
+    },
+    {
+        "name": "Stampeding Force",
+        "effective_date": "Sep 2 2022",
+        "original_text": "Continuous - Enchantment Whenever you move on a spot you deal 1 damage to everything else on that spot.",
+        "new_text": "Trigger - Enchantment Whenever you move on a spot you deal 1 damage to everything else on that spot.",
+        "set": "J2"
+    },
+    {
+        "name": "Shoulder Hop",
+        "effective_date": "Sep 2 2022",
+        "original_text": "",
+        "new_text": "Card Symbol should be Technique",
+        "set": "J2"
+    },
+    {
+        "name": "Phyr Cub",
+        "effective_date": "Sep 2 2022",
+        "original_text": "",
+        "new_text": "Card Number should be 47",
+        "set": "J2"
+    },
+    {
+        "name": "Revenge of the Phoenix",
+        "effective_date": "Sep 2 2022",
+        "original_text": "Action - 8 Energy - Execute Prevent all damage dealt to you by target Attack ability that is targeting you.",
+        "new_text": "Swift - 8 Energy - Execute Prevent all damage dealt to you by target Attack ability that is targeting you.",
+        "set": "J2"
+    },
+    {
+        "name": "Forked Lightning",
+        "effective_date": "Aug 27 2021",
+        "original_text": "Swift - 19 Aura - Cast You deal 3 Electric damage to everything in Forked Lightning's awareness.",
+        "new_text": "Swift - 17 Aura - Cast You deal 3 Electric damage to everything in Forked Lightning's awareness.",
+        "set": "RAZ"
+    },
+    {
+        "name": "Bariq Naga",
+        "effective_date": "Nov 3 2020",
+        "original_text": "Swift - Exert - Electric Attack [3]",
+        "new_text": "Swift - Exert - Electric Attack [4]",
+        "set": "RAZ"
+    },
+    {
+        "name": "Nubia",
+        "effective_date": "Nov 1 2020",
+        "original_text": "Trigger - Visions At the beginning of the round, draw a card.",
+        "new_text": "Immediate - Visions At the beginning of the round, draw a card.",
+        "set": "APH, BET, RAZ, JAE"
+    },
+    {
+        "name": "Aevum Exitium",
+        "effective_date": "Oct 20 2020",
+        "original_text": "Action - Exert & 7 Aura - Quick Enchant Add Aevum Exitium as a skill.",
+        "new_text": "Swift - Exert & 7 Aura - Quick Enchant Add Aevum Exitium as a skill.",
+        "set": "RAZ"
+    },
+    {
+        "name": "Ryu-Kyu Rabbit",
+        "effective_date": "Sep 5 2019",
+        "original_text": "Swift - 4 Energy - Fire Attack [0] Ryu-Kyu Rabbit deals 0 fire damage to a target in its awareness.",
+        "new_text": "Swift - Exert - Fire Attack [0] Ryu-Kyu Rabbit deals 0 fire damage to a target in its awareness.",
+        "set": "JAE"
+    },
+    {
+        "name": "Sacred Ground",
+        "effective_date": "Aug 7 2018",
+        "original_text": "Swift - 17 Aura - Create Place Sacred Ground on a spot in the arena.",
+        "new_text": "Swift - 17 Aura - Create Place Sacred Ground on an unoccupied spot in the arena.",
+        "set": "APH"
+    },
+    {
+        "name": "Essence Drain",
+        "effective_date": "Jun 25 2018",
+        "original_text": "Action - 20 Aura - Drain [2] Target champion or summon in Essence Drain's awareness loses 2 HP. You gain 2 HP.",
+        "new_text": "Action - 20 Aura - Cast Drain [2] Target combatant in Essence Drain's awareness loses 2 HP and you gain 2 HP.",
+        "set": "APH"
+    },
+    {
+        "name": "Vampiric Kiss",
+        "effective_date": "Jun 25 2018",
+        "original_text": "Action - 6 Energy - Drain [3] Target champion or summon in Vampiric Kiss's awarenes loses 3 health. You gain 3 health.",
+        "new_text": "Action - 6 Energy - Drain Attack [3] Target combatant in Vampiric Kiss's awarenes loses 3 HP and you gain 3 HP.",
+        "set": "APH"
+    },
+    {
+        "name": "Quickasand",
+        "effective_date": "Jun 25 2018",
+        "original_text": "Trigger - Decay At the beginning of each round, Quicksand loses 1 HP.",
+        "new_text": "Trigger - Decay At the end of each round Quicksand loses 1 HP.",
+        "set": "APH, BET"
+    },
+    {
+        "name": "Death's Companion",
+        "effective_date": "Jun 25 2018",
+        "original_text": "Swift - Exhaust - Basic Attack [5] Death's Companion deals 5 damage to a target in its awareness.",
+        "new_text": "Swift - Exert - Range Attack [5] Death's Companion deals 5 Range damage to a target in its awareness.",
+        "set": "APH"
+    },
+    {
+        "name": "Angel of Retribution",
+        "effective_date": "Jun 25 2018",
+        "original_text": "Swift - Exhaust - Holy Attack [6]",
+        "new_text": "Swift - Exert - Range Holy Attack [6] Angel of Retribution deals 6 Range Holy damage to a target in its awareness.",
+        "set": "APH"
+    },
+    {
+        "name": "Concussion Punch",
+        "effective_date": "Jun 25 2018",
+        "original_text": "Action - 4 Energy - Basic Attack [2] You deal 2 damage to a target in Concussion Punch's awareness.",
+        "new_text": "Action - 4 Energy - Heavy Attack [2] You deal 2 damage to a target in Concussion Punch\u2019s awareness.",
+        "set": "APH"
+    },
+    {
+        "name": "Inferno Pits",
+        "effective_date": "Jun 25 2018",
+        "original_text": "Trigger - Inferno Pits Whenever anything moves onto Inferno Pits, Inferno Pits deals 2 fire damage to them.",
+        "new_text": "Trigger - Inferno Pits Whenever anything moves onto or is placed onto Inferno Pits, Inferno Pits deals 2 Fire damage to it.",
+        "set": "APH"
+    },
+    {
+        "name": "Libraries of Sahas",
+        "effective_date": "Jun 25 2018",
+        "original_text": "Trigger - Libraries of Sahas Whenever a champion moves onto Libraries of Sahas, they may discard a card, then draw a card.",
+        "new_text": "Trigger - Libraries of Sahas Whenever a champion moves onto or is placed onto Libraries of Sahas they may discard a card then draw a card.",
+        "set": "APH"
+    },
+    {
+        "name": "Trecherous Terrain",
+        "effective_date": "Jun 25 2018",
+        "original_text": "Continuous - Trecherous Terrain Champions and summons cannot move onto Treacherous Terrain unless they pay 3 Energy or 1 HP.",
+        "new_text": "Trigger - Trecherous Terrain Whenever a combatant moves onto or is placed onto Trecherous Terrain they must pay 3 Energy. If they cannot they lose 1 HP.",
+        "set": "APH"
+    },
+    {
+        "name": "Skeleton King",
+        "effective_date": "Jun 25 2018",
+        "original_text": "Action - 15 Aura - Resurrect Place Skeleton King on a spot where a summon has been killed this round, facing the same direction as you, then exhaust it.",
+        "new_text": "Action - 15 Aura - Resurrect Beckon Place Skeleton King on a spot where a summon has been killed this round, facing the same direction as you, then exert it.",
+        "set": "APH"
+    }
+]
