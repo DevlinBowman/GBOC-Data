@@ -1,7 +1,7 @@
-#Introdiction
+# Introdiction
 
 This repository contains json formatted data files for vaious aspects of the Genesis: Battle of Champions (GBOC) card game.
-The goal of this project is to provide a central resource to archive various aspects of the came for the community to use for fan projects or app development.
+The goal of this project is to provide a central resource to archive various aspects of the game for the community to use for fan projects or app development.
 
 ## Data files
 The Data files are stored in data/, with the primary file being data/core/all_cards.json. 
